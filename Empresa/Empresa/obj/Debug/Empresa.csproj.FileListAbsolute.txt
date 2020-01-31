@@ -9,3 +9,4 @@ C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Empresa\Empresa\obj\Debug\E
 C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Empresa\Empresa\obj\Debug\Empresa.csproj.GenerateResource.Cache
 C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Empresa\Empresa\obj\Debug\Empresa.exe
 C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Empresa\Empresa\obj\Debug\Empresa.pdb
+C:\Users\Aluno\documents\visual studio 2015\Projects\Empresa\Empresa\obj\Debug\Empresa.View.FrmUsuario.resources
